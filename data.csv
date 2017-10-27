@@ -1,4 +1,4 @@
-SubjID,actigraphyHrs,PSQI,delta
+SubjID,actHrs,psqiHrs,delta
 000562,5.88,5.92,0.03
 002541,5.53,7,1.47
 002542,6.32,5.83,-0.49
